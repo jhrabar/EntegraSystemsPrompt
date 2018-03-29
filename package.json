@@ -1,0 +1,20 @@
+{
+  "name": "entegrasystemsprompt",
+  "version": "1.0.0",
+  "description": "Business Card Parser for Entegra Systems",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhrabar/EntegraSystemsPrompt.git"
+  },
+  "author": "John Hrabar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhrabar/EntegraSystemsPrompt/issues"
+  },
+  "homepage": "https://github.com/jhrabar/EntegraSystemsPrompt#readme"
+}
